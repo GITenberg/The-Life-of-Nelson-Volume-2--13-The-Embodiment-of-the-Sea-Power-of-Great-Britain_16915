@@ -1,0 +1,35 @@
+_repo: The-Life-of-Nelson-Volume-2--13-The-Embodiment-of-the-Sea-Power-of-Great-Britain_16915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahan, A. T. (Alfred Thayer)
+    aliases:
+    - Mahan, Alfred Thayer
+    - Mahan, Alfred T.
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '5116'
+    url: http://www.gutenberg.org/2009/agents/5116
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
+description: ''
+gutenberg_bookshelf: Napoleonic(Bookshelf)
+gutenberg_issued: '2005-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nelson, Horatio Nelson, Viscount, 1758-1805'
+- !lcc 'DA'
+- !lcsh 'Admirals -- Great Britain -- Biography'
+- !lcsh 'Great Britain. Royal Navy -- Biography'
+- !lcsh 'Great Britain -- History, Naval -- 18th century'
+- !lcsh 'Great Britain -- History, Naval -- 19th century'
+title: "The Life of Nelson, Volume 2\r\nThe Embodiment of the Sea Power of Great Britain"
+url: http://www.gutenberg.org/ebooks/16915
